@@ -4,6 +4,19 @@
 
 Application réalisé dans le but d'illustrer la nouvelle fonctionnalité de RecyclerView : MergeAdapter
 
+```kotlin
+override fun initRecyclerView() {
+    recycler_view.apply {
+         layoutManager = LinearLayoutManager(context)
+         adapter = MergeAdapter(
+             headerAdapter,
+             mainDataAdapter,
+             footerAdapter
+         )
+     }
+}
+```
+
 [Lien de la documentation](https://developer.android.com/reference/androidx/recyclerview/widget/MergeAdapter)
 
 [Lien de l'article](https://developer.android.com/reference/androidx/recyclerview/widget/MergeAdapter)
