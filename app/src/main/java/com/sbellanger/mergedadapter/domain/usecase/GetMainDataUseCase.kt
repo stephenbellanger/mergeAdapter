@@ -10,13 +10,13 @@ class GetMainDataUseCase {
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Bob Sinclair",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Henry Mikado",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
@@ -28,13 +28,13 @@ class GetMainDataUseCase {
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Bob Sinclair",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Henry Mikado",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
@@ -46,13 +46,13 @@ class GetMainDataUseCase {
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Bob Sinclair",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Henry Mikado",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
@@ -64,13 +64,13 @@ class GetMainDataUseCase {
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Bob Sinclair",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
                 imageResId = generateIcon(),
                 name = "Henry Mikado",
-                description = "Developper",
+                description = "Developpeur",
                 colorRes = generateColor()
             ),
             MainDataEntity(
