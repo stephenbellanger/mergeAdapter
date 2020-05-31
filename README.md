@@ -2,7 +2,10 @@
 
 ## Description
 
-Application réalisé dans le but d'illustrer la nouvelle fonctionnalité de RecyclerView : MergeAdapter
+Application réalisé dans le but d'illustrer la nouvelle fonctionnalité de RecyclerView : MergeAdapter disponible dans la librairie `androidx.recyclerview:recyclerview:1.2.0-alpha02`
+
+Elle permet de combiner séquentiellement plusieurs adapteurs pour les afficher dans un seul RecyclerView. Cela vous permet de mieux encapsuler vos adapteurs plutôt que d'avoir à combiner de nombreuses sources de données en un seul adapteur, en les gardant concentrées et réutilisables.
+
 
 ```kotlin
 override fun initRecyclerView() {
