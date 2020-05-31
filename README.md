@@ -3,6 +3,7 @@
 ## Description
 
 Application réalisé dans le but d'illustrer la nouvelle fonctionnalité de RecyclerView : MergeAdapter
+
 [Lien de la documentation](https://developer.android.com/reference/androidx/recyclerview/widget/MergeAdapter)
 
 [Lien de l'article](https://developer.android.com/reference/androidx/recyclerview/widget/MergeAdapter)
