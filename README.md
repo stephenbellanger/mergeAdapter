@@ -22,13 +22,12 @@ override fun initRecyclerView() {
 
 [Lien de la documentation](https://developer.android.com/reference/androidx/recyclerview/widget/MergeAdapter)
 
-[Lien de l'article](https://developer.android.com/reference/androidx/recyclerview/widget/MergeAdapter)
+[Lien de l'article](https://stephenbellanger.wordpress.com/2020/05/31/merge-adapter/)
 
 
 ## Screenshots
 
-![GitHub Logo](/screenshots/device-2020-05-31-161618.png)
-![GitHub Logo](/screenshots/device-2020-05-31-161639.png)
+![GitHub Logo](/screenshots/device-2020-05-31-174917.png)
 
 ## Auteur
 
